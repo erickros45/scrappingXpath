@@ -1,0 +1,4 @@
+Links= '//h3[@class="article-highlighted__title"]/a/@href'
+Titulos = '//h1[@class="entry__title"]/text()'
+Resumen ='//div[@class="col-md-11"]/p/text()'
+Cuerpo = '//div[@class="entry__content pw-ctt"]/p/node()'
